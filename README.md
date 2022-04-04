@@ -12,8 +12,7 @@ $pkgListの中を編集することで好きなappを追加したり削除した
 気に入らないファイルがあればwinget uninstall "いらないapp"で消すことができます。
 ネットワークがしっかりとつながるところでお試しください。
 
-now it works!:)
-動きます(..
+
 
 ### If You Can't Run Powershell Script
 copy & paste or type this command to your powershell and run as admin (win+R to open launcher and type powershell, then hold ctrl+shift and hit enter key)
