@@ -16,7 +16,7 @@ now it works!:)
 動きます(..
 
 ### If You Can't Run Powershell Script
-copy & paste or type this comman to your powershell and run as admin (win+R to open launcher and type powershell, then hold ctrl+shift and hit enter key)
+copy & paste or type this command to your powershell and run as admin (win+R to open launcher and type powershell, then hold ctrl+shift and hit enter key)
 アドミニストレータとしてpowershellを起動し(win+R, powershellと入力,ctrl+shift+enter key, はいを選択)
 このコマンドをコピーペーストまたはタイプしスクリプトを実行可能にしてください
 
