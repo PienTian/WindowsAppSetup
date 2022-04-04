@@ -986,7 +986,7 @@ echo @"
 
 All set! enjoy :) 
 "@
-
+sleep 5
 exit
 
 	 
