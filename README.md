@@ -11,3 +11,5 @@ make sure your network connection is enough fast.
 $pkgListの中を編集することで好きなappを追加したり削除したりできます。id　形式がおすすめです。（winget search "探したいapp名")
 気に入らないファイルがあればwinget uninstall "いらないapp"で消すことができます。
 ネットワークがしっかりとつながるところでお試しください。
+
+#FIXING BUG!
