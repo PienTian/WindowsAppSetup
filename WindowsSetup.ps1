@@ -44,12 +44,12 @@ $pkgList = @(
 	'Zoom.Zoom'
 	'7zip.7zip'
 	'Microsoft.Office'
-)@
+)
 
 # start installing
 
-for ($i=0;$i<$pkgList.Length;$i++){
-	winget install $pkgList[$i]
+foreach ($app in $pkgList){
+	winget install $app
 }
 
 echo @"
@@ -980,13 +980,15 @@ key_bindings:
   #highlight_damage: false
 "@
 
-$config -f 'string' | Out-File alacritty.yml
+$config >> alacritty.yml
 
 
 
-echo " All set! enjoy :) "
+echo @" 
+
+All set! enjoy :) 
+"@
 
 exit
 
-alacritty
 	 
