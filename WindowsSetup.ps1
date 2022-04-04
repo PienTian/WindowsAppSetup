@@ -982,8 +982,6 @@ key_bindings:
 
 $config >> alacritty.yml
 
-
-
 echo @" 
 
 All set! enjoy :) 
