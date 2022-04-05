@@ -21,6 +21,7 @@ copy & paste or type this command to your powershell and run as admin (win+R to 
 このコマンドをコピーペーストまたはタイプしスクリプトを実行可能にしてください
 
 **`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned`**
+**`Unblock-File /Path/to/WindowsSetup`**
 
 ### If you don't install Alacritty
 you don't need to setting up alacritty, thus after `foreach` block, you can delete all the code and it's prefered :)
