@@ -24,5 +24,6 @@ copy & paste or type this command to your powershell and run as admin (win+R to 
 
 ### If you don't install Alacritty
 you don't need to setting up alacritty, thus after `foreach` block, you can delete all the code and it's prefered :)
+
 Alacrittyをインストールしない場合は`foreach`ブロック以降のコードを削除することをお勧めします。
 
