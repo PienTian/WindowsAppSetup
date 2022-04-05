@@ -32,3 +32,7 @@ you don't need to setting up alacritty, thus after `foreach` block, you can dele
 
 Alacrittyをインストールしない場合は`foreach`ブロック以降のコードを削除することをお勧めします。
 
+#### Execution
+right click WindowsSetup.ps1 and choose 'Run with PowerShell'
+
+WindowsSetup.ps1ファイルを右クリックしPowerShellで実行を選択。
