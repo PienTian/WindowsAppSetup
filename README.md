@@ -23,7 +23,9 @@ copy & paste or type following commands to your powershell and run as admin (win
 **`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned`**
 and then
 
-**`Unblock-File -Path /Path/to/WindowsSetup`** or `Get-ChildItem -Path C:\ -Name WindowsSetup.ps1 -Recurse | ForEach-Object {"C:\$_"} | Get-Item | Unblock-File`
+**`Unblock-File -Path /Path/to/WindowsSetup`** or 
+
+`Get-ChildItem -Path C:\ -Name WindowsSetup.ps1 -Recurse | ForEach-Object {"C:\$_"} | Get-Item | Unblock-File`
 
 ### If you don't install Alacritty
 you don't need to setting up alacritty, thus after `foreach` block, you can delete all the code and it's prefered :)
