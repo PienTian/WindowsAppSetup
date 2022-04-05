@@ -23,7 +23,7 @@ copy & paste or type following commands to your powershell and run as admin (win
 **`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned`**
 and then
 
-**`Unblock-File /Path/to/WindowsSetup`**
+**`Unblock-File -Path /Path/to/WindowsSetup`**
 
 ### If you don't install Alacritty
 you don't need to setting up alacritty, thus after `foreach` block, you can delete all the code and it's prefered :)
