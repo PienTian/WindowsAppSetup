@@ -22,6 +22,7 @@ copy & paste or type following commands to your powershell and run as admin (win
 
 **`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned`**
 and then
+
 **`Unblock-File /Path/to/WindowsSetup`**
 
 ### If you don't install Alacritty
