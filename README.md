@@ -32,7 +32,7 @@ and then
 >*if still you can't run, please try loosing execution policy.*
 
 >*`Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted` (not recommended)*
-*or copy paste as new psm1 and psd1 file.*
+*or copy paste to new .ps1 file.*
 
 >_それでも動かなかった場合は、上記のコマンドでポリシーを緩めるか、.ps1ファイルを新しく作成して内容をコピペしてください。_
 
