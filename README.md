@@ -28,9 +28,10 @@ and then
 `Get-ChildItem -Path C:\ -Name WindowsSetup.ps1 -Recurse | ForEach-Object {"C:\$_"} | Get-Item | Unblock-File`
 
 
+
 *if still you can't run, please try loosing execution policy.*
 
-`Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted` (not recommended)
+*`Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted` (not recommended)*
 *or copy paste as new psm1 and psd1 file.*
 
 _それでも動かなかった場合は、上記のコマンドでポリシーを緩めるか、.ps1ファイルを新しく作成して内容をコピペしてください。_
