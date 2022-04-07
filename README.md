@@ -1,4 +1,4 @@
-# WindowsSetup
+# WindowsSetup (install apps)
 This powershell script is written for installing all primary apps into your newly windows computer.
 You can add or drop applications by editing $pkgList.
 when you add application, writing in id form is recommended (you can check corresponding id by the command `winget search "app name"`
