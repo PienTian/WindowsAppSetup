@@ -13,7 +13,9 @@ The following pacakgage will be installed.
 #nmap : port scanning tool (command line tool) : opensource
 #OBS studio : screencasting and streaming : opensource
 #Slack : communication platform : closedsource
+#Steel Bank Common Lisp : common lisp interpreter : opensource
 #TeamViwer : remote access tool : closedsource
+#Vim : editor : opensource
 #Visual Studio Code : editor : opensource
 #Wireshark : packet analyzer : opensource
 #Zettlr : notetaking app : opensource
@@ -37,7 +39,9 @@ $pkgList = @(
 	'Inkscape.Inkscape'
 	'OBSProject.OBSStudio'
 	'SlackTechnologies.Slack'
+      'SBCL.SBCL'
 	'TeamViewer.TeamViewer'
+      'vim.vim'
 	'Microsoft.VisualStudioCode'
 	'WiresharkFoundation.Wireshark'
 	'Zettlr.Zettlr'
