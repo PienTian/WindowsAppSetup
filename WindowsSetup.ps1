@@ -8,6 +8,7 @@ The following pacakgage will be installed.
 #Git : version management tool : opensource
 #Google Chrome : browser : closedsource
 #Google drive : cloud storage : closedsource
+#GNU Emacs : editor : opensource
 #GNU Privacy Gurd (gpg) : encryption and sign tool (command line tool): opensource
 #Inkscape : vector graphic editor : opensource
 #nmap : port scanning tool (command line tool) : opensource
@@ -34,6 +35,7 @@ $pkgList = @(
 	'Git.Git'
 	'Google.Chrome'
       'Google.Drive'
+	'GNU.Emacs'
 	'GnuPG.GnuPG'
 	'Insecure.Nmap'
 	'Inkscape.Inkscape'
