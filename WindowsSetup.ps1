@@ -23,6 +23,7 @@ The following pacakgage will be installed.
 #zoom : video communication tool : closedsource
 #7zip : file archiver : opensource
 #Microsoft office : office tool : closedsource
+#Grammarly for MS office : office extension (grammarly) : closedsource
 "@
 
 # please add your package here... id-style is prefered
@@ -50,6 +51,7 @@ $pkgList = @(
 	'Zoom.Zoom'
 	'7zip.7zip'
 	'Microsoft.Office'
+      'Grammarly.ForOffice'
 )
 
 # start installing
