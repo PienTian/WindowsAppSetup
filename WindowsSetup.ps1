@@ -3,6 +3,7 @@ The following pacakgage will be installed.
    name        short discription       open/closed source
 #Alacritty : the terminal emulater : opensource
 #balenaEtcher : writing img file utility : opensource
+#DeepL : translater AI : closedsource
 #Discord : VoIP, messaging : closedsource
 #Flow launcher : application launcher : opensource
 #Git : version management tool : opensource
@@ -31,6 +32,7 @@ The following pacakgage will be installed.
 $pkgList = @(
 	'Alacritty.Alacritty'
 	'Balena.Etcher'
+      'DeepL.DeepL'
 	'Discord.Discord'
 	'Flow-Launcher.Flow-Launcher'
 	'Git.Git'
