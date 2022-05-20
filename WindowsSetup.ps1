@@ -5,6 +5,7 @@ The following pacakgage will be installed.
 #balenaEtcher : writing img file utility : opensource
 #DeepL : translater AI : closedsource
 #Discord : VoIP, messaging : closedsource
+#Draw.io : diagram drawing tool : opensource
 #Flow launcher : application launcher : opensource
 #Git : version management tool : opensource
 #Google Chrome : browser : closedsource
@@ -34,6 +35,7 @@ $pkgList = @(
 	'Balena.Etcher'
       'DeepL.DeepL'
 	'Discord.Discord'
+	'JGraph.Draw'
 	'Flow-Launcher.Flow-Launcher'
 	'Git.Git'
 	'Google.Chrome'
